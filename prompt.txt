@@ -1,0 +1,6 @@
+
+Busque no bing esse site 'https://tarotfarm.com.br/' E e busque pra cada carta de tarot que vou te falar 
+Essas informações: Naipe (Se for arcano maior, considere Arcano Maior o naipe);	Elemento;Planeta;Signo_Astrologico;Cabala_Kabbalah;Data Importante;Pedra;Sim_Ou_Não;Palavras chaves;
+
+Exemplo: Eu digo: 'A força'
+Vc devolve: 'Fogo; Sol; Leão; 19º Gevurah-Chesed; Meados do verão; Sim; força interna, coragem, persuasão, resistência, compaixão, sensualidade
