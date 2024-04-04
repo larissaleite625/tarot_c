@@ -1,0 +1,79 @@
+ID;Numero;Carta;Naipe;Elemento;Planeta;Signo_Astrologico;Cabala_Kabbalah;Data Importante;Pedra;Sim_Ou_Nao;Significado_Normal
+1;0;O Louco;Arcano Maior;Ar;Urano;Aquario;11º Keter-Chokhmah;Primavera;Topazio;Sim;Novo comeco, aventura, espontaneidade, descuido, fe, liberdade, inocencia
+2;1;O Mago;Arcano Maior;Ar;Mercurio;Aries;12º Kether-Binah;Primavera;Agata, Opala;Sim;Manifestacao, desenvoltura, poder, acao inspirada
+3;2;A Sacerdotisa;Arcano Maior;Agua;Lua;Cancer e Touro;13º Tipharet-Kether;Verao;Perola, Cristal, pedra da lua;Talvez; Intuicao, conhecimento divino, energia feminina, segredos, misterio, inconsciente, espiritualidade.
+4;3;A Imperatriz;Arcano Maior;Terra;Venus;Libra;14º Binah-Chokmak;Outono;Esmeralda, Turquesa;Sim;Feminilidade, beleza, criatividade, natureza, nutricao, abundancia, gravidez
+5;4;O Imperador;Arcano Maior;Fogo;Marte;Aries;15º Tipharet-Chokmah;Outono;Rubi;Sim;controle, autoridade, foco, disciplina, estrutura, protecao
+6;5;O Papa;Arcano Maior;Terra;Venus;Touro;16º Chesed-Chokmah;Primavera;Terra;Talvez;autoridade, convencionalidade, conformismo, a importancia da espiritualidade, educacao
+7;6;Enamorados;Arcano Maior;Ar;Mercurio;Gemeos;17º Tipharet-Binah;Verao;Turmalina, Alexandrita;Sim;Amor, uniao, escolhas significativas, harmonia, valores compartilhados, parcerias, romance
+8;7;O Carro;Arcano Maior;Agua;Lua;Cancer;18º Gevurah-Binah;Verao;Nao especificado;Sim;controle, forca de vontade, sucesso, acao, determinacao
+9;8;A Forca;Arcano Maior;Fogo;Sol;Leao;19º Gevurah-Chesed;Meados do verao;Nao especificado;Sim;forca interna, coragem, persuasao, resistencia, compaixao, sensualidade
+10;9;O Eremita;Arcano Maior;Terra;Mercurio;Virgem;20º Tipharet-Chesed;Final do verao;Peridoto;Sim;introspeccao, estar sozinho, meditacao
+11;10;A Roda da Fortuna;Arcano Maior;Fogo;Jupiter;Capricornio;21º Netzach-Chesed;Sem datas especificas;Nao especificado;Sim;Mudanca, boa sorte, ciclos de vida, progresso
+12;11;A Justica;Arcano Maior;Ar;Libra;Venus;Inicio do outono;22º Tipharet-Gevurah;Nao especificado;Sim;Equilibrio, decisoes justas, responsabilidade, justica carmica.
+13;12;O Enforcado;Arcano Maior;Agua;Netuno;Peixes;23º Hod-Gevurah;Sem datas importantes;Nao especificado;Nao;Suspensao, desapego, novas perspectivas.
+14;13;A Morte;Arcano Maior;Agua;Plutao;Escorpiao;24º Netzach-Tipharet;Final do outono;Nao especificado;Nao;Finais, mudanca, desapego.
+15;14;A Temperanca;Arcano Maior;Agua;Lua;Sagitario;25º Yesod-Tipharet;Final do outono;Nao especificado;Sim;equilibrio, moderacao, paciencia, confianca positiva, paz, tranquilidade, serenidade.
+16;15;O Diabo;Arcano Maior;Terra;Saturno;Capricornio;26º Hod-Tipharet;Fim e inicio do ano civil;Diamante negro;Nao;tentacao fisica e material, vicio, obsessoes, dependencia, depressao.
+17;16;A Torre;Arcano Maior;Fogo;Marte;Aries;Nao especificado;Nao especificado;Nao especificado;Nao;Mudanca repentina, Turbulencia, Destruicao, Trauma.
+18;17;A Estrela;Arcano Maior;Ar;Uranos;Aquario;Janeiro e Fevereiro;28º Yesod-Netzach;Nao especificado;Sim;Esperanca, inspiracao, positividade, renovacao, espiritualidade, cura.
+19;18;A Lua;Arcano Maior;Agua;Netuno;Peixes;Fevereiro e Marco;29º Malkuth-Netzach;Nao especificado;Nao;Ilusao, ansiedade, subconsciente, intuicao.
+20;19;O Sol;Arcano Maior;Fogo;Sol;Leao;Nao especificado;30º Yesod-Hod;Crisolita;Sim;Positividade, diversao, calor, sucesso, vitalidade.
+21;20;O Julgamento;Arcano Maior;Fogo;Plutao;Escorpiao;Nao especificado;31º Malkuth-Hod;Nao especificado;Talvez;Reflexao, renascimento, vocacao interior, absolvicao.
+22;21;O Mundo;Arcano Maior;Terra;Saturno;Nenhum, governado por Saturno;Nao tem;32º Yedod-Malkuth;Nao especificado;Sim;Conclusao, realizacao, viagem
+23;1;As de Copas;Copas;Agua;Mercurio;Cancer, Escorpiao, Peixes;Nao especificado;Nao especificado;Diamante;Sim;Amor, novos relacionamentos, compaixao, criatividade.
+24;2;2 de Copas;Copas;Agua;Venus;Cancer;Meados do verao;Chokmah - Sabedoria;Nao especificado;Sim;relacionamentos, harmonia, casamento, uniao, encontro, afinidade.
+25;3;3 de Copas;Copas;Agua;Mercurio;Cancer;Nao especificado;Binah - Entendimento;Nao especificado;Sim;celebracao, amizade, cura, abundancia.
+26;4;4 de Copas;Copas;Agua;Lua;Cancer;Nao especificado;Chokmah - Sabedoria;Nao especificado;Nao;apatia, desanimo, passividade, hesitacao, duvidas.
+27;5;5 de Copas;Copas;Agua;Marte;Escorpiao;Final do outono e inicio do inverno;Geburah - Forca;Nao especificado;Nao;emocoes negativas, foco em perdas, instabilidade emocional, raiva.
+28;6;6 de Copas;Copas;Agua;Netuno;Escorpiao;Inicio do inverno;Tipharet - Beleza;Nao especificado;Sim;memorias de infancia, influencias passadas, nostalgia, reencontros, inocencia.
+29;7;7 de Copas;Copas;Agua;Venus;Escorpiao;Inicio do inverno;Netzach - Vitoria;Nao especificado;Neutro;escolhas, multiplas possibilidades, oportunidades, decisoes, sonhos, ilusao.
+30;8;8 de Copas;Copas;Agua;Saturno;Peixes;Meio do inverno;Hod - Esplendor;Nao especificado;Nao;abandono, deixar ir, viajar, escapismo, introspeccao, auto descoberta, solidao.
+31;9;9 de Copas;Copas;Agua;Jupiter;Peixes;Yesod O Alicerce;meio para o final do inverno;Nao especificado;Sim;satisfacao, contentamento​
+32;10;10 de Copas;Copas;Agua;Marte;Peixes;Malkuth O Reinado;meio para o fim do inverno;Nao especificado;Sim;felicidade, familia feliz, casamento, estabilidade, harmonia, boa sorte
+33;11;Cavaleiro de Copas;Copas;Agua;Netuno;Peixes;Tipharet – Beleza;Primavera;Nao especificado;Sim;proposta romantica, charme, criatividade, diplomacia, tomada de atitudes
+34;12;Valete de Copas;Copas;Agua e Ar;Mercurio;Cancer, Escorpiao, Peixes;Malkuth – O Reinado;Verao;Nao especificado;Sim;crianca interior, idealismo, espiritualidade, inocencia, boas noticias, romance, arte. Para mais detalhes, voce pode visitar o site Tarotfarm
+35;13;Rainha de Copas;Copas;Agua;Netuno;Cancer;Binah – Compreensao;inicio do verao;Nao especificado;Incerto;feminilidade, sensitividade, gentileza, intuicao, romance, beleza, criatividade, conselheira
+36;14;Rei de Copas;Copas;Agua;Nenhum;Escorpiao;Chokmah – Sabedoria;inicio do inverno;Nao especificado;Incerto;calmaria, amigavel, sabio, equilibrio, romantico, conselheiro
+37;1;As de Paus;Paus;Fogo;Mercurio e Marte;Aries, Sagitario, Leao;Kether de Atziluth;Verao;Diamante;Sim;Inspiracao, criatividade, novas oportunidades, crescimento, potencial, novos comecos​
+38;2;2 de Paus;Paus;Fogo;Sol;Virgem e Leao;Kether de Atziluth;21 de marco – 30 de marco;Rubi, Turquesa;Sim;planejamento, primeiros passos, tomada de decisoes, deixando conforto, assumindo riscos
+39;3;3 de Paus;Paus;Fogo;Sol;Aries;31 de marco a 10 de abril;Binah;Nao especificado;Sim;expansao, crescimento, amadurecimento, confianca, progresso, oportunidades no exterior.
+40;4;4 de Paus;Paus;Fogo;Venus;Aries;11 de abril a 20 de abril;Chesed;Nao especificado;Sim;alegria, celebracao, conquistas, estabilidade, encontros, harmonia, regresso ao lar.
+41;5;5 de Paus;Paus;Fogo;Saturno;Leao;22 de julho a 01 de agosto;Geburah;Nao especificado;Nao;conflitos, competicao, diversidade de opinioes, agressao, rivalidade, desentendimento.
+42;6;6 de Paus;Paus;Fogo;Jupter;Leao;02 de agosto a 11 de agosto;Tiphareth – Beleza;Nao especificado;Sim;sucesso, recompensas, vitoria, reconhecimento publico.
+43;7;7 de Paus;Paus;Fogo;Marte;Leao;12 de agosto a 22 de agosto;Netzach;Nao especificado;Sim;protecao, desafios, defesa, competicao.
+44;8;8 de Paus;Paus;Fogo;Mercurio;Sagitario;23 de novembro a 02 de dezembro;Hod;Nao especificado;Sim;velocidade, movimento, acao, excitacao, mudancas, progresso.
+45;9;9 de Paus;Paus;Fogo;Lua;Sagitario;03 de dezembro a 12 de dezembro;Yesod;Nao especificado;Talvez;coragem, resiliencia, persistencia, perseveranca, cansaco, limites, crenca, determinacao.
+46;10;10 de Paus;Paus;Fogo;Saturno;Sagitario;13 de dezembro a 21 de dezembro;Malkuth;Nao especificado;Nao;fardo, trabalho arduo, responsabilidade, cansaco.
+47;11;Cavaleiro de Paus;Paus;Fogo;Jupiter;Sagitario;13 de novembro a 12 de dezembro;Chokmah;Nao especificado;Sim;coragem, energia, paixao, aventura, liberdade.
+48;12;Valete de Paus;Paus;Fogo;Jupiter;Sagitario;Primavera;Malkuth e Tiphareth;Nao especificado;Sim;inspiracao, aventuras, ideias, criatividade, alegria, potencial ilimitado.
+49;13;Rainha de Paus;Paus;Fogo;Marte;Aries;11 de marco a 10 de abril;Binah;Nao especificado;Sim;coragem, paixao, confianca, determinacao, carisma, independencia, seguro de si, sociabilidade.
+50;14;Rei de Paus;Paus;Fogo;Marte;Leao;12 de julho a 11 de agosto;Chokmah;Nao especificado;Sim;lideranca, empreendedorismo, ousadia, controle, visao, honra, otimismo.
+51;1;As de Espada;Espada;Ar;Mercurio e Saturno;Gemeos, Libra e Aquario;Vau= Ar = Yetzirah = Astral;Outono;Nao especificado;Sim;Novas ideias, clareza mental, sucesso, decisoes acertadas
+52;2;2 de Espada;Espada;Ar;Lua;Libra;Chokmah – Sabedoria;23 de setembro a 2 de outubro;Nao especificado;Talvez;Decisoes dificeis, opcoes de ponderacao, impasse, evasao, negacao
+53;3;3 de Espada;Espada;Ar;Saturno;Libra;Yetzirah;1ª quinzena de outubro;Nao especificado;Nao;Tristeza, conflito, sofrimento, separacao, magoa, falsidade
+54;4;4 de Espada;Espada;Ar;Jupiter;Libra;Chesed – Misericordia;13 a 22 de outubro;Nao especificado;Nao;Repouso, paz, serenidade, regeneracao, natureza placida, rejuvenescimento, meditacao
+55;5;5 de Espada;Espada;Ar;Venus;Aquario;Geburah – Forca;20 a 29 de janeiro;Nao especificado;Nao;Alegacao, controversia, agressao, hostilidade, conflitos, derrota​
+56;6;6 de Espada;Espada;Ar;Mercurio;Aquario;Tiphareth – Beleza;30 de janeiro a 8 de fevereiro;Nao especificado;Sim;Movimento, rito de passagem, superacao do passado​
+57;7;7 de Espada;Espada;Ar;Lua;Aquario;Netzach – Vitoria;9 a 18 de fevereiro;Nao especificado;Nao;Desconfianca, deslealdade​
+58;8;8 de Espada;Espada;Ar;Jupiter;Gemeos;Hod – Esplendor;21 a 31 de maio;Nao especificado;Nao;Impotencia, prisao, vitimizacao
+59;9;9 de Espada;Espada;Ar;Marte;Gemeos;Yesod – Alicerce;1 a 10 de junho;Nao especificado;Nao;Inquietude, angustia【60†fonte】.
+60;10;10 de Espada;Espada;Ar;Sol;Gemeos;Malkuth – Reinado;11 a 20 de junho;Nao especificado;Nao;Finalizacao, ruina, desespero
+61;11;Cavaleiro de Espada;Espada; Ar;Sol;Libra;Chokmah – Sabedoria;11 de maio a 10 de junho;Nao especificado;Sim;intelecto, acao, ambicao
+62;12;Valete de Espada;Espada;Ar;Terra;Libra;Malkuth – O Reinado;Outono;Nao especificado;Sim;Comunicacao, curiosidade
+63;13;Rainha de Espada;Espada;Ar;Saturno;Gemeos;Binah – Compreensao;12 de setembro a 12 de outubro;Nao especificado;Nao;comunicacao, esperteza, vivacidade, julgamento imparcial​​.
+64;14;Rei de Espadas;Espada;Ar;Venus;Libra;Chokmah – Sabedoria;10 de janeiro a 8 de fevereiro;Nao especificado;Talvez;razao, intelecto, verdade
+65;1;As de Ouros;Ouros;Terra;Venus e Mercurio;Touro, Virgem, Capricornio, Libra;Kether de Assiah;Inverno;Nao especificado;Sim;oportunidades, prosperidade
+66;2;2 de Ouros;Ouros;Terra;Lua;Capricornio;Chokmah – Sabedoria;22 de dezembro a 30 de dezembro;Nao especificado;Talvez;multitarefa, desenvoltura, opcoes de pesagem
+67;3;3 de Ouros;Ouros;Terra;Marte;Capricornio;Binah – Compreensao;Janeiro a Fevereiro;Nao especificado;Sim;trabalho em equipe, metas compartilhadas
+68;4;4 de Ouros;Ouros;Terra;Sol;Capricornio;Chered – Misericordia;Inverno;Nao especificado;Sim;estabilidade, seguranca, mas tambem avareza e medo de mudancas
+69;5;5 de Ouros;Ouros;Terra;Mercurio;Touro;Geburah – Forca;Primavera;Nao especificado;Nao;desafios financeiros e emocionais, mas com potencial para superacao
+70;6;6 de Ouros;Ouros;Terra;Lua;Touro;Tipharet – Beleza;Apogeu da primavera;Nao especificado;Sim;generosidade, equilibrio em dar e receber
+71;7;7 de Ouros;Ouros;Terra;Saturno;Touro;Netzach – Vitoria;Primavera;Nao especificado;Talvez;foco em resultados de esforcos, reflexao sobre proximos passos
+72;8;8 de Ouros;Ouros;Terra;Sol;Virgem;Hod – Esplendor;Fim do verao;Nao especificado;Sim;esforco e dedicacao para alcancar o sucesso, com foco no crescimento profissional e financeiro
+73;9;9 de Ouros;Ouros;Terra;Venus;Virgem;Yesod – Alicerce;Fim do verao e preparo para o outono;Nao especificado;Sim;sucesso e estabilidade financeira, recompensa pelo trabalho duro
+74;10;10 de Ouros;Ouros;Terra;Mercurio;Virgem;Malkuth – Reinado;Fim do verao;Nao especificado;Sim;estabilidade, prosperidade, heranca, e satisfacao em todas as areas da vida
+75;11;Cavaleiro de Ouros;Ouros;Terra;Venus e Mercurio;Virgem e Leao;Tipharet - Beleza;Inicio do inverno;Nao especificado;Sim;dedicacao, eficiencia, paciencia
+76;12;Valete de Ouros;Ouros;Nao especificado;Nao especificado;Nao especificado;Nao especificado;Nao especificado;Nao especificado;Nao especificado;A carta Valete de Ouros aponta um novo estado de autoconsciencia e alinhamento de objetivos;Ouros;Terra;Terra;Virgem;Malkuth – O Reinado;Outono;Nao especificado;Sim;Novos comecos, novas oportunidades, Iniciativa, entusiasmo, ambicao, 
+77;13;Rainha de Ouros;Ouros;Terra;Venus;Touro, Virgem, Capricornio;Binah – Compreensao;meio do inverno;Nao especificado;Sim;generosidade, prosperidade, riqueza, sensibilidade, fertilidade, gentileza, curandeira, boa mae, caseira, conselheira, pratica.
+78;14;Rei de Ouros;Ouros;Terra;Mercurio;Capricornio;Chokmah – Sabedoria;meio da primavera;Nao especificado;Sim;sucesso, aperfeicoamento, seguranca, alto status, estabilidade, lealdade, conservador, gentil, empresario, confiavel

@@ -4,7 +4,7 @@
 #include <time.h>
 #include <locale.h>
 
-#define NUM_CARTAS_TOTAIS 21
+#define NUM_CARTAS_TOTAIS 78
 #define NUM_CARTAS_ESCOLHIDAS 3
 #define TAM_MAX_LINHA 300
 
@@ -18,8 +18,8 @@ typedef struct {
     char signo_astrologico[15];
     char cabala_kabbalah[50];
     char estacao[15];
-    char pedra[15];
-    char soun[5];
+    char pedra[20];
+    char soun[10];
     char significadoNormal[100];
 } TCarta;
 
@@ -35,7 +35,7 @@ void escolha_dos_id(int numeros[])
     int i;
     for (i = 0; i < NUM_CARTAS_ESCOLHIDAS; i++) {
         numeros[i] = (rand() % NUM_CARTAS_TOTAIS) + 1;
-        printf("%d\n", numeros[i]);
+        //printf("%d\n", numeros[i]);
     }
     
     
@@ -111,11 +111,12 @@ void lerarquivo(TCarta cartas[], int numeros[])
     fclose(arquivo);
 }
 
-void mostrarcartasselecionadas(TCarta cartas[]) 
+// Ideia completa
+/*void mostrarcartasselecionadas(TCarta cartas[]) 
 {
 	int i;
     for (i = 0; i < NUM_CARTAS_ESCOLHIDAS; i++) {
-        printf("ID: %d\n", cartas[i].id);
+        printf("ID: %i\n", cartas[i].id);
         printf("Nome: %s\n", cartas[i].nome);
         printf("Naipe: %s\n", cartas[i].naipe);
         printf("Elemento: %s\n", cartas[i].elemento);
@@ -130,7 +131,26 @@ void mostrarcartasselecionadas(TCarta cartas[])
         // Imprima os outros dados conforme necessário
         printf("\n");
     }
+}*/
+
+void mostrarcartasselecionadas(TCarta cartas[]) 
+{
+	setlocale(LC_ALL, "Portuguese");
+	int i;
+    for (i = 0; i < NUM_CARTAS_ESCOLHIDAS; i++) {
+        printf("Nome: %s\n", cartas[i].nome);
+        printf("Elemento: %s\n", cartas[i].elemento);
+        printf("Planeta: %s\n", cartas[i].planeta);
+        printf("Signo Astrológico: %s\n", cartas[i].signo_astrologico);
+        printf("Kabbalah: %s\n", cartas[i].cabala_kabbalah);
+        printf("Sim ou Não: %s\n", cartas[i].soun);
+		printf("Significado: %s\n\n\n", cartas[i].significadoNormal);
+        
+        // Imprima os outros dados conforme necessário
+        printf("\n");
+    }
 }
+
 
 int main() {
     TCarta cartas_escolhidas[NUM_CARTAS_ESCOLHIDAS], baralho[NUM_CARTAS_TOTAIS];
